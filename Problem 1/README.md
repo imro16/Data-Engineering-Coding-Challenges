@@ -1,3 +1,4 @@
+Here's the updated `README.md` file with your GitHub username and repository name:
 
 ```markdown
 # Fixed-Width File Parser
@@ -7,7 +8,7 @@ This repository contains a Python solution for parsing fixed-width files and con
 ## Project Structure
 
 ```plaintext
-/your_project_directory
+/Data-Engineering-Coding-Challenges
 │
 ├── src/
 │   ├── parse_fixed_width_line.py     # Function to parse individual fixed-width lines
@@ -23,8 +24,8 @@ This repository contains a Python solution for parsing fixed-width files and con
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/imro16/Data-Engineering-Coding-Challenges.git
+cd Data-Engineering-Coding-Challenges
 ```
 
 ### 2. Set Up Your Environment
@@ -48,7 +49,7 @@ field_lengths = [5, 10, 10, 8, 4]  # Adjust these lengths as needed
 Execute the following command to parse the fixed-width file and generate a CSV:
 
 ```bash
-python src/main.py
+python Problem1/main.py
 ```
 
 The script will read the input file (`employees.txt` by default), parse it according to the specified field lengths, and output a CSV file (`employees.csv`).
