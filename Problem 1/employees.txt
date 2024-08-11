@@ -1,0 +1,4 @@
+101   Alice     Manager   1200002024
+102   Bob       Engineer  950002023
+103   Charlie   Analyst   750002024
+104   Diana     HR        850002022
