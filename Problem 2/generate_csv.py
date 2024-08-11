@@ -5,7 +5,7 @@ from faker import Faker
 fake = Faker()
 
 # Parameters
-num_rows = 10**6  # Adjust to generate larger or smaller files
+num_rows = 10**6  
 file_name = 'data.csv'
 
 # Generate CSV
